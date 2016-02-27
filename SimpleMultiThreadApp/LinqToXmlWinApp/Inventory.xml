@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory>
+  <Car ID="0">
+    <Make>Ford</Make>
+    <Color>Red</Color>
+    <PetName>Jimbo</PetName>
+  </Car>
+</Inventory>
